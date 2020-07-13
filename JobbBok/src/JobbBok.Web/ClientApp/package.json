@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/HXProjects/JobbBok/issues"
   },
-  "homepage": "https://github.com/HXProjects/JobbBok#readme"
+  "homepage": "https://github.com/HXProjects/JobbBok#readme",
+  "devDependencies": {
+    "@babel/core": "7.10.4"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.4",
+    "@types/node": "^14.0.23",
+    "@types/react-dom": "^16.9.8",
+    "typescript": "^3.9.6"
+  }
 }
