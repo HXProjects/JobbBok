@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\JobbBok.Web\\JobbBok.Web.csproj": {}
+    "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\src\\JobbBok.Web\\JobbBok.Web.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\JobbBok.Web\\JobbBok.Web.csproj": {
+    "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\src\\JobbBok.Web\\JobbBok.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\JobbBok.Web\\JobbBok.Web.csproj",
+        "projectUniqueName": "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\src\\JobbBok.Web\\JobbBok.Web.csproj",
         "projectName": "JobbBok.Web",
-        "projectPath": "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\JobbBok.Web\\JobbBok.Web.csproj",
+        "projectPath": "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\src\\JobbBok.Web\\JobbBok.Web.csproj",
         "packagesPath": "C:\\Users\\H.X\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\JobbBok.Web\\obj\\",
+        "outputPath": "D:\\Programming\\GIT\\Repositories\\HX\\JobbBok\\JobbBok\\src\\JobbBok.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\H.X\\AppData\\Roaming\\NuGet\\NuGet.Config",

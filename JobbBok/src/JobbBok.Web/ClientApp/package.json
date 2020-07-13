@@ -1,0 +1,19 @@
+{
+  "name": "jobb-bok",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HXProjects/JobbBok.git"
+  },
+  "author": "HXProjects",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HXProjects/JobbBok/issues"
+  },
+  "homepage": "https://github.com/HXProjects/JobbBok#readme"
+}
